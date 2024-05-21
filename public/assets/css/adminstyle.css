@@ -1,0 +1,37 @@
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+}
+
+textarea {
+    resize: none;
+    height: 200px !important;
+}
+
+.cadet-image-holder img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.image-holder img {
+    display: block;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.active {
+    background-color: #225470;
+    color: #fff;
+}
+
+.box {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    margin-bottom: 30px;
+}
